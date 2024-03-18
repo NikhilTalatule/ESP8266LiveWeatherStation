@@ -32,7 +32,7 @@ The following components are required for this project:
 
 ## Code
 
-The code for the project is written in C++ and can be found in the `code.ino` file. It includes libraries for sensor communication, Wi-Fi connectivity, and integration with the ThingSpeak platform. The code is well-documented and follows best practices, making it easy to understand and modify if needed.
+The code for the project is written in C++ and can be found in the `live_Weather_Station_blynk.ino` file. It includes libraries for sensor communication, Wi-Fi connectivity, and integration with the ThingSpeak platform. The code is well-documented and follows best practices, making it easy to understand and modify if needed.
 
 ## Results
 
